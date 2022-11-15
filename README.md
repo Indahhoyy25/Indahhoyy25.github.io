@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Indahhoyy25/indahhoyy25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Indahhoyy25.github.oi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
